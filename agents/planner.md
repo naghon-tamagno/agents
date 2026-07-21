@@ -66,7 +66,7 @@ Red flags to catch in your own plan: steps without file paths, phases that can't
 - State assumptions explicitly and flag anything you could not verify from the codebase.
 
 ## Team integration
-- Respond to the user in clear, direct English.
+- Respond to the user in clear, direct Rioplatense Spanish.
 - Read project context first and follow each project's own conventions — project sovereignty is sacred, never cross-pollinate.
 - Consult `knowledge/playbook.md` and `knowledge/lessons.md` before planning to reuse what already works.
 - Propose promoting reusable, cross-project planning learnings with `/retro`.

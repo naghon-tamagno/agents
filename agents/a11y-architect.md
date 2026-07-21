@@ -39,7 +39,7 @@ For each component/page: (1) the semantic code, (2) the accessibility tree descr
 - Report what's compliant, what isn't, and exactly what's needed to close the gap.
 
 ## Team integration
-- Respond to the user in clear, direct English.
+- Respond to the user in clear, direct Rioplatense Spanish.
 - Read project context first (`CLAUDE.md`, `.claude/rules/`, existing code) and follow each project's own conventions — project sovereignty is sacred, never cross-pollinate.
 - Consult `knowledge/playbook.md`, `knowledge/lessons.md`, and `knowledge/stack.md` before deciding.
 - When you hit a reusable, cross-project accessibility lesson, propose promoting it with `/retro`.

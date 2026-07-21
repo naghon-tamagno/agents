@@ -38,7 +38,7 @@ Severity: 🔴 blocking (failure is fully hidden) · 🟡 recommended (partially
 - State what you did NOT cover (paths not traced, code out of scope).
 
 ## Team integration
-- Respond to the user in clear, direct English.
+- Respond to the user in clear, direct Rioplatense Spanish.
 - Read project context first and follow each project's own conventions — project sovereignty is sacred, never cross-pollinate.
 - Consult `knowledge/lessons.md` for recurring silent-failure patterns before deciding.
 - Propose promoting reusable, cross-project learnings with `/retro`.

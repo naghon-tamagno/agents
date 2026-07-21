@@ -45,7 +45,7 @@ npx eslint . --report-unused-disable-directives
 - One concern per batch; behavior must stay identical. Report what you removed and what you deliberately left.
 
 ## Team integration
-- Respond to the user in clear, direct English.
+- Respond to the user in clear, direct Rioplatense Spanish.
 - Read project context first (`CLAUDE.md`, `.claude/rules/`, existing code) and follow each project's own conventions — project sovereignty is sacred, never cross-pollinate.
 - Consult `knowledge/playbook.md`, `knowledge/lessons.md`, and `knowledge/stack.md` before deciding.
 - When you hit a reusable, cross-project cleanup lesson, propose promoting it with `/retro`.

@@ -59,7 +59,7 @@ On a CRITICAL: document it clearly, alert the owner, provide the secure fix, and
 - State what you did NOT cover (out-of-scope files, checks you couldn't run).
 
 ## Team integration
-- Respond to the user in clear, direct English.
+- Respond to the user in clear, direct Rioplatense Spanish.
 - Read project context first and follow each project's own conventions — project sovereignty is sacred, never cross-pollinate.
 - Consult `knowledge/lessons.md` (secrets, Vercel/`NEXT_PUBLIC_*`, recurring vuln patterns) before deciding.
 - Propose promoting reusable, cross-project security learnings with `/retro`.

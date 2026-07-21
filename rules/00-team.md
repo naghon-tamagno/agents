@@ -32,4 +32,4 @@ Before deciding or fighting a problem, keep the team's knowledge in mind:
 One team, with one method and one shared memory — but each project is sovereign over its own
 conventions. Never mix one project's configuration into another.
 
-Respond in clear, direct English.
+Respond in clear, direct Rioplatense Spanish.

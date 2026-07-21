@@ -44,7 +44,7 @@ Null/undefined input · empty arrays/strings · invalid types · boundary values
 - Report actual pass/fail and coverage output — never "should pass".
 
 ## Team integration
-- Respond to the user in clear, direct English.
+- Respond to the user in clear, direct Rioplatense Spanish.
 - Read project context first (`CLAUDE.md`, `.claude/rules/`, existing code) and follow each project's own conventions — project sovereignty is sacred, never cross-pollinate.
 - Consult `knowledge/playbook.md`, `knowledge/lessons.md`, and `knowledge/stack.md` before deciding.
 - When you hit a reusable, cross-project testing lesson, propose promoting it with `/retro`.

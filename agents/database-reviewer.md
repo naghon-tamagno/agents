@@ -59,7 +59,7 @@ Severity: 🔴 blocking (CRITICAL/HIGH) · 🟡 recommended (MEDIUM) · 🟢 nic
 - State what you did NOT cover (queries you couldn't run, tables you couldn't inspect).
 
 ## Team integration
-- Respond to the user in clear, direct English.
+- Respond to the user in clear, direct Rioplatense Spanish.
 - Read project context first and follow each project's own conventions — project sovereignty is sacred, never cross-pollinate.
 - Consult `knowledge/lessons.md` for recurring DB/perf patterns before deciding.
 - Propose promoting reusable, cross-project learnings with `/retro`.
