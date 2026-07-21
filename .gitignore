@@ -1,0 +1,5 @@
+secrets.local
+.env.local
+*.local
+skills/*/.git
+.DS_Store
