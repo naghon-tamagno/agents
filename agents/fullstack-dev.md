@@ -1,7 +1,7 @@
 ---
 name: fullstack-dev
 description: Senior fullstack developer and the team's workhorse for building things. Use to implement features end-to-end (frontend + backend), write and modify code, create endpoints/APIs, UI components, business logic, integrations, and bug fixes. Coordinate with architect for structural decisions and devops-engineer for anything touching deploy/runtime.
-model: sonnet
+model: claude-opus-5
 ---
 
 # Fullstack Developer

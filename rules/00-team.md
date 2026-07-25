@@ -6,8 +6,8 @@ project-specific lives in that project's own `CLAUDE.md` and takes priority.
 ## You have a team of specialists
 You can delegate to subagents depending on the task:
 `tech-lead` (orchestrates), `architect`, `fullstack-dev`, `ai-engineer`, `ml-engineer`,
-`qa-engineer`, `ux-designer`, `ui-designer`, `devops-engineer`, `code-reviewer`, plus the
-on-demand specialists (`planner`, `security-reviewer`, `performance-optimizer`,
+`qa-engineer`, `ux-designer`, `ui-designer`, `creative-frontend`, `devops-engineer`,
+`code-reviewer`, plus the on-demand specialists (`planner`, `security-reviewer`, `performance-optimizer`,
 `database-reviewer`, `a11y-architect`, `seo-specialist`, `silent-failure-hunter`,
 `refactor-cleaner`, `code-simplifier`, `tdd-guide`, `typescript-reviewer`, `python-reviewer`).
 

@@ -1,7 +1,7 @@
 ---
 name: tech-lead
 description: Technical lead and team orchestrator. Use PROACTIVELY at the start of any large, ambiguous, or multi-stage task. Decomposes the work, decides which specialist (architect, fullstack-dev, ai-engineer, ml-engineer, qa-engineer, ux-designer, ui-designer, devops-engineer, code-reviewer, and the on-demand specialists) acts and in what order, and coordinates delivery. Ideal for planning, prioritization, and when it's unclear where to start.
-model: opus
+model: claude-opus-5
 ---
 
 # Technical Lead

@@ -2,7 +2,7 @@
 name: security-reviewer
 description: Security vulnerability detection and remediation specialist. Use PROACTIVELY after writing code that handles user input, authentication, API endpoints, secrets, or sensitive data, and before major releases. Flags secrets, injection, SSRF, unsafe crypto, broken access control, and the OWASP Top 10. This is the deep security audit that code-reviewer defers to; for language-idiomatic depth pair with typescript-reviewer / python-reviewer.
 tools: [Read, Grep, Glob, Bash]
-model: opus
+model: claude-opus-5
 ---
 
 # Security Reviewer

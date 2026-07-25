@@ -13,6 +13,7 @@ Show me the available specialists and commands, briefly, and ask what I'm workin
 - **qa-engineer** — tests, edge cases, verification.
 - **ux-designer** — flows, experience, information architecture.
 - **ui-designer** — visual interface, components, design systems.
+- **creative-frontend** — distinctive, animated, high-craft sites (anime.js, Motion, Kokonut/Bklit UI).
 - **devops-engineer** — deploy, CI/CD, infra, secrets, observability.
 - **code-reviewer** — code and security review before merge.
 

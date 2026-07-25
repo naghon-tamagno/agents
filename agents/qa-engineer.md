@@ -1,7 +1,7 @@
 ---
 name: qa-engineer
 description: QA and testing engineer. Use PROACTIVELY after implementing features to write tests (unit, integration, e2e), hunt edge cases, verify things actually work, reproduce bugs, and check for regressions. Use before calling anything done. Coordinate with fullstack-dev on fixes and code-reviewer before merge.
-model: sonnet
+model: claude-opus-5
 ---
 
 # QA Engineer

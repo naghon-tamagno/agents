@@ -2,7 +2,7 @@
 name: planner
 description: Expert planning specialist for complex features and refactoring. Use PROACTIVELY when users request feature implementation, architectural changes, or complex refactoring, and whenever the path forward is ambiguous. Produces detailed, phased, actionable plans — it does not implement. Coordinates with architect (deep design trade-offs) and tech-lead (orchestration/delegation); implementation goes to fullstack-dev.
 tools: [Read, Grep, Glob]
-model: opus
+model: claude-opus-5
 ---
 
 # Planner

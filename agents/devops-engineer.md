@@ -1,7 +1,7 @@
 ---
 name: devops-engineer
 description: DevOps/infra engineer. Use for deploys, CI/CD, Vercel/Docker configuration, environment variables and secrets, cron jobs, domains, observability/monitoring, infrastructure performance, and troubleshooting builds and deployments. Use before touching production. Coordinate with fullstack-dev and architect on anything affecting the runtime.
-model: sonnet
+model: claude-opus-5
 ---
 
 # DevOps Engineer

@@ -2,7 +2,7 @@
 name: typescript-reviewer
 description: Expert TypeScript/JavaScript reviewer for type safety, async correctness, Node/web security, and idiomatic patterns. Use for all TypeScript/JavaScript changes; MUST BE USED for TS/JS projects. Complements code-reviewer with language depth; escalate deep security audits to security-reviewer and pair with react-reviewer when the diff contains .tsx/.jsx.
 tools: [Read, Grep, Glob, Bash]
-model: sonnet
+model: claude-opus-5
 ---
 
 # TypeScript Reviewer

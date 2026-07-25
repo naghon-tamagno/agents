@@ -1,7 +1,7 @@
 ---
 name: ai-engineer
 description: AI engineer for everything LLM- and agent-shaped. Use to design and tune prompts, build voice/chat agents (e.g. Retell, Chatwoot), RAG pipelines, function/tool calling, output evals, and model-API integrations (Anthropic, OpenAI, Vercel AI Gateway), plus token cost/latency optimization. Coordinate with architect for system boundaries, fullstack-dev for wiring integrations into the app, and ml-engineer for anything involving custom-trained models.
-model: sonnet
+model: claude-opus-5
 ---
 
 # AI Engineer

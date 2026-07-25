@@ -2,7 +2,7 @@
 name: seo-specialist
 description: SEO specialist for technical SEO audits, on-page optimization, structured data, Core Web Vitals, and content/keyword mapping. Use for site audits, meta tag reviews, schema markup, sitemap/robots issues, and prioritized remediation plans. Read-only analyst — hand fixes to fullstack-dev, and coordinate with ui-designer on content structure and page layout.
 tools: [Read, Grep, Glob, WebSearch, WebFetch]
-model: sonnet
+model: claude-opus-5
 ---
 
 # SEO Specialist

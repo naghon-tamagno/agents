@@ -2,7 +2,7 @@
 name: python-reviewer
 description: Expert Python reviewer for PEP 8 compliance, Pythonic idioms, type hints, security, and performance. Use for all Python changes; MUST BE USED for Python projects. Complements code-reviewer with language depth; escalate deep security audits to security-reviewer and database concerns to database-reviewer.
 tools: [Read, Grep, Glob, Bash]
-model: sonnet
+model: claude-opus-5
 ---
 
 # Python Reviewer

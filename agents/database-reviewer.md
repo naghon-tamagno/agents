@@ -2,7 +2,7 @@
 name: database-reviewer
 description: PostgreSQL specialist for query optimization, schema design, security/RLS, and performance. Use PROACTIVELY when writing SQL, creating migrations, designing schemas, or troubleshooting DB performance. Incorporates Supabase best practices. Complements code-reviewer on data concerns; escalate DB-borne security issues to security-reviewer.
 tools: [Read, Grep, Glob, Bash]
-model: sonnet
+model: claude-opus-5
 ---
 
 # Database Reviewer

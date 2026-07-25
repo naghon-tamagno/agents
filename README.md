@@ -31,7 +31,7 @@ new files and prunes dangling symlinks for anything you deleted.
 
 ## The team
 
-22 agents in two tiers (10 Core + 12 Specialists) + 5 commands. Everything is authored in
+23 agents in two tiers (11 Core + 12 Specialists) + 5 commands. Everything is authored in
 **English** for precision and portability.
 
 ### Core Squad — build end-to-end (delegate a whole feature)
@@ -45,6 +45,7 @@ new files and prunes dangling symlinks for anything you deleted.
 | `qa-engineer` | Tests, edge cases, verification. |
 | `ux-designer` | Flows, experience, information architecture. |
 | `ui-designer` | Visual interface, components, design systems. |
+| `creative-frontend` | Distinctive, animated, high-craft sites (anime.js, Motion, Kokonut/Bklit UI). |
 | `devops-engineer` | Deploy, CI/CD, infra, secrets, observability. |
 | `code-reviewer` | Code and security review before merge. |
 
@@ -107,11 +108,11 @@ is this shared `knowledge/`.
 
 ```
 team/
-├── agents/          22 agents (10 Core Squad + 12 Specialists) — 1 .md file each
+├── agents/          23 agents (11 Core Squad + 12 Specialists) — 1 .md file each
 ├── rules/           global standards loaded into every project
 ├── commands/        /council · /preflight · /retro · /handoff · /team
 ├── knowledge/       shared knowledge: playbook.md · lessons.md · stack.md
-├── skills/          design skills (ui-ux-pro-max, design-system, ui-styling, …)
+├── skills/          design + creative-web skills (creative-web, ui-ux-pro-max, design-system, ui-styling, …)
 ├── CONTRIBUTING.md  the authoring standard for agents
 └── install.sh       links everything into ~/.claude
 ```

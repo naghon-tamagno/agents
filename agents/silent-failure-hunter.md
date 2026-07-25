@@ -2,7 +2,7 @@
 name: silent-failure-hunter
 description: Reviews code for silent failures, swallowed errors, dangerous fallbacks, and missing error propagation. Use PROACTIVELY after writing code with error handling, network/file/DB calls, or fallback logic, and whenever bugs "disappear" without explanation. Complements code-reviewer with a narrow, adversarial focus on error paths; hand fixes to fullstack-dev.
 tools: [Read, Grep, Glob, Bash]
-model: sonnet
+model: claude-opus-5
 ---
 
 # Silent Failure Hunter

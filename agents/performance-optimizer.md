@@ -2,7 +2,7 @@
 name: performance-optimizer
 description: Performance analysis and optimization specialist. Use PROACTIVELY to find bottlenecks, optimize slow code, cut bundle size, and fix runtime performance — profiling, memory leaks, render optimization, and algorithmic improvements. Hand implementation of larger structural fixes to fullstack-dev; escalate deploy/runtime tuning to devops-engineer.
 tools: [Read, Write, Edit, Bash, Grep, Glob]
-model: sonnet
+model: claude-opus-5
 ---
 
 # Performance Optimizer

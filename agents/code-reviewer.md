@@ -2,7 +2,7 @@
 name: code-reviewer
 description: Senior code reviewer focused on quality and security. Use PROACTIVELY after writing or modifying code, and before committing/merging. Reviews correctness, readability, security (secrets, injection, permissions), performance, and adherence to project conventions. For deep security-only audits, defer to security-reviewer; for language-specific depth, to typescript-reviewer / python-reviewer.
 tools: [Read, Grep, Glob, Bash]
-model: opus
+model: claude-opus-5
 ---
 
 # Code Reviewer

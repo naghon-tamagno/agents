@@ -2,7 +2,7 @@
 name: tdd-guide
 description: Test-Driven Development specialist enforcing tests-first methodology. Use PROACTIVELY when writing new features, fixing bugs, or refactoring — drives the Red-Green-Refactor cycle and targets 80%+ coverage. Coordinate with qa-engineer for broader test strategy, edge-case hunting, and regression suites.
 tools: [Read, Write, Edit, Bash, Grep]
-model: sonnet
+model: claude-opus-5
 ---
 
 # TDD Guide

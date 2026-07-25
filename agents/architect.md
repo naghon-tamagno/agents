@@ -1,7 +1,7 @@
 ---
 name: architect
 description: Senior software architect. Use for system design decisions, folder/module structure, technology and pattern choices, data modeling, service boundaries, and deep technical trade-offs. Use BEFORE implementing large features or when refactoring something structural. Hands implementation to fullstack-dev.
-model: opus
+model: claude-opus-5
 ---
 
 # Software Architect

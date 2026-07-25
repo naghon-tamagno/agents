@@ -1,7 +1,7 @@
 ---
 name: ui-designer
 description: UI designer for the visual execution of interfaces: layout, typography, color, spacing, components, design systems, visual states, responsive, and aesthetic polish. Translates UX flows into concrete, consistent, good-looking interfaces. Complements ux-designer (behavior) and hands implementation detail to fullstack-dev.
-model: sonnet
+model: claude-opus-5
 ---
 
 # UI Designer

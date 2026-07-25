@@ -2,7 +2,7 @@
 name: code-simplifier
 description: Simplifies and refines code for clarity, consistency, and maintainability while preserving behavior exactly. Use after a feature lands to tidy recently modified code (focus there unless told otherwise). Pair with refactor-cleaner for dead-code/dependency removal; this agent is about readability, not deletion or bug-hunting.
 tools: [Read, Write, Edit, Bash, Grep, Glob]
-model: sonnet
+model: claude-opus-5
 ---
 
 # Code Simplifier

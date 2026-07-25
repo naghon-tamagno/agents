@@ -24,8 +24,9 @@ Rules:
 - `description` on ONE line. Never use folded scalars (`>`) or multi-line descriptions.
 
 ## Model assignment
-- `opus`: orchestration, architecture, security, deep review, planning.
-- `sonnet`: implementation, mechanical specialists, design, most reviewers.
+- All agents currently pin `model: claude-opus-5` (highest quality across the board).
+- To trade cost/speed on a specific agent, drop it to `sonnet` or `haiku` — but the
+  default for this team is Opus 5 everywhere.
 
 ## Body structure (unified)
 
